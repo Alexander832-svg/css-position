@@ -62,7 +62,7 @@ body {
     align-items: center;
     /* Use position so that the ad will stick under the header when the page is scrolled */
     position: sticky;
-    top: 100px;
+    top: 99px
 }
 
 .products {
